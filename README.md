@@ -8,16 +8,16 @@ Projekt für Verteilte Systeme DHBW MA 2023
 `npm install`
 
 #### Run on the source folder
-node --require ./instrumentation.js
+`node --require ./instrumentation.js`
 
 #### Run on customers folder
-node customers.js
+`node customers.js`
 
 #### Run on books folder
-node books.js
+`node books.js`
 
 #### Run on orders folder
-node orders.js
+`node orders.js`
 
 
 
